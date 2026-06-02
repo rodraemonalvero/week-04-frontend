@@ -28,6 +28,10 @@ export default function RootLayout({
             <Link href="/books/new" className="font-semibold text-blue-600">
               Add Book
             </Link>
+
+            <Link href="/chat" className="font-semibold text-blue-600">
+              AI Chat
+            </Link>
           </div>
         </nav>
 
